@@ -9,15 +9,12 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  自行安装python2.7和对应插件
+2.  安装keil MDK或者是复制Keil MDK目录下的*.FML文件
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  见软件“帮助”信息
 
 #### 参与贡献
 
